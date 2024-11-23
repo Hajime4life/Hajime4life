@@ -8,7 +8,7 @@
 - 📍 I'm from Abkhazia <img src="https://i.imgur.com/Iqu7NPK.gif" align="center" style="width: 5%" />
 - 🌱 I’m currently learning Swift and SwiftUI
 - 🏀 My hobby is basketball
-- 🛠️ I'm trying to improve now to be better
+- 🛠️ I'm trying to improve - to be better
 <br/>  
 
 ## I'm friends with
